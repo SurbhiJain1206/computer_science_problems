@@ -1,7 +1,4 @@
-<script>
 
-	// Javascript code for Josephus Problem
-	
 	function josephus(n, k)
 	{
 		if (n == 1)
@@ -21,5 +18,4 @@
 	let n = 14;
 	let k = 2;
 	document.write("The chosen " + "place is " + josephus(n, k));
-	
-</script>
+
